@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "react-native-barber-app",
+    "slug": "react-native-barber-app",
+    "android": {
+      "package": "com.tedoang.reactnativejobapp"
+    },
+    "ios": {
+      "bundleIdentifier": "com.tedoang.reactnativejobapp"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "9d07c4a6-5885-46f2-b7c9-e98cd8d198e9"
+      }
+    }
+  }
+}

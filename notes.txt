@@ -1,0 +1,8 @@
+What is used in the project:
+    Expo router: 
+        https://expo.github.io/router/docs/
+
+        following the QuickStart guide there to setup our new project.
+
+        npx create-expo-app@latest --example with-router
+        npm install expo-font axios react-native-dotenv
